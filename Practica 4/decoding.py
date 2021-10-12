@@ -55,12 +55,12 @@ if __name__ == "__main__":
 
     # print(decode_text(encode_text(encode_text('holamundo') + encode_text('valor_llave'))))
     # print((encode_text('any carnal pleasure')))
-    # save_file("encoded_msg.txt", encode_file("msg.txt"))
+    save_file("encoded_msg.txt", encode_file("hola_mundo.c"))
     # print(open("encoded_msg.txt", "rb").read())
 
-    save_file("decoded_msg.txt", decode_file("encoded_msg.txt"))
+    #save_file("mystery_img2.jpg", decode_file("mystery_img2.txt"))
     # print(open('decoded_msg.txt', 'rb').read().decode('ascii'))
 
-    # save_file('encoded_fcfm.txt', encode_file('fcfm.png'))
+    # save_file('encoded_hola_mundo.txt', encode_file('hola_mundo.c'))
     # print(open('encoded_fcfm.txt', 'rb').read())
-    # save_file('fcfm_decoded.png', decode_file('encoded_fcfm.txt'))
+    # save_file('hola_mundo.c', decode_file('encoded_hola_mundo.txt'))
