@@ -122,7 +122,7 @@ def noticiasAtleta():
 def climaProximo():
     print("---------------------Proximas fechas de la F1---------------------")
     print()
-    api_address = 'http://api.openweathermap.org/data/2.5/weather?appid=526776e75e731c30f8d2f46596c7035d&q='
+    api_address =
     print("PORTIMAO CIRCUIT 30 de mayo de 2021")
     ciudad = "portimao"
     horaUTC = "&start=1622350800"
